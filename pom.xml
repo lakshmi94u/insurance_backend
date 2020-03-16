@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.hcl</groupId>
 	<artifactId>einsurance</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>war</packaging>
 	<name>einsurance</name>
 	<description>Demo project for Spring Boot</description>
@@ -79,7 +79,7 @@
 	<distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://54.80.114.163:8081/nexus/content/repositories/snapshots/</url>
+    <url>http://54.152.82.195:8081/nexus/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
 	<build>
